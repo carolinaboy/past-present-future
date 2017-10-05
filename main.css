@@ -1,0 +1,88 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+  background-color: #777070;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+  padding: 7px;
+}
+
+section {
+   clear:both;
+}
+
+h1 {
+  color: #880000;
+    border: 5px solid #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-size: 45px;
+    font-family: "Indie Flower";
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Indie Flower";
+
+}
+
+h3{
+  font-size: 35px;
+  font-family: "Indie Flower";
+}
+
+p {
+  font-size: 30px;
+  font-family: serif;
+
+}
+
+ol{
+  font-size: 30px;
+  font-family: serif;
+}
+
+ul{
+  font-size: 30px;
+  font-family: serif;
+}
+
+img.right {
+   float: right;
+   margin-left: 20px;
+   max-width: 100%;
+}
+
+img.left{
+  float: left;
+  margin-right: 30px;
+  max-width: 100%;
+}
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%
+}
+
+a:link {
+    color: #490505;
+}
+
+
+a:visited {
+    color: #062f70;
+}
+
+
+a:hover {
+    color: #42f48f;
+}
+
+
+a:active {
+    color: #186d3d;
+}
